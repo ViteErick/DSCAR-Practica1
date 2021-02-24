@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "aes_crc_custom_layer.h": "c",
+        "fsl_debug_console.h": "c",
+        "aes_crc_layer.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+crc.c:40:13:InitCrc16_CcitFalse	32	static
+crc.c:64:13:InitCrc16	32	static
+crc.c:85:13:InitCrc16_Kermit	32	static
+crc.c:107:13:InitCrc32	32	static
+crc.c:129:13:InitCrc32_Posix	32	static
+crc.c:147:5:main	48	static
